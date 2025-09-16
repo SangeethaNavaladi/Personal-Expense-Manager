@@ -5,7 +5,6 @@ A web-based Django application to manage daily expenses, track spending, and vis
 ## Features
 - Add, edit, and delete expenses
 - Categorize expenses (Food, Travel, Shopping, etc.)
-- View monthly and weekly reports
 - User authentication and admin panel
 - Simple and user-friendly interface
 
